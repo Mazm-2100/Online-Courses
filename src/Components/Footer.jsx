@@ -17,7 +17,7 @@ export default function Footer() {
                 reserved.
               </p>
             </div>
-            <div className="flex bg-amber-800 items-center h-1/2 w-full lg:w-1/2 gap-8 md:gap-4">
+            <div className="flex  items-center h-1/2 w-full lg:w-1/2 gap-8 md:gap-4">
               <div className="flex flex-col items-center w-1/2">
                 <h3 className="text-2xl font-semibold text-white mb-3">
                   Quick Links
